@@ -1,0 +1,8 @@
+.product-shirt {
+    transition: transform 0.3s;
+  }
+  
+  .product-shirt:hover {
+    transform: scale(1.1);
+  }
+  
